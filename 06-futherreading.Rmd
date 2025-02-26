@@ -269,3 +269,10 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+## Wildlife Biology, Big Data, and Reproducible Research
+
+This paper discusses the importance of reproducibility and the ways in which researchers can achieve this. The authors acknowledge the use of newer, more sophisticated technology in data acquisition; however, they comment on how this has made reproducible research even more paramount as “Big data” are prone to errors and are tedious to analyse, critique and correct. They use several case studies to illustrate how more traditional methods are poor choices for Big data. Interestingly, they emphasise the importance of study design and careful planning, regarding several different types of equipment used in a caribou study which resulted in different measurements and units. They not only critique these case studies but offer solutions as is the case of the seabird counts case study, where they provided voice recognition software in place of handwritten notes. They accentuate the importance of educating researchers on the usefulness of using reproducible research techniques (that is, reducing errors in the data, increased efficiency, transparency – for more streamline critiques, and collaboration among scientists).
+
+Link: https://www.researchgate.net/publication/322492965_Wildlife_biology_big_data_and_reproducible_research
+
+> Contributor: Frankie
